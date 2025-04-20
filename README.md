@@ -1,4 +1,4 @@
-## Hi, I'm Kazeem. I'm an IT and Network Specialist divisifying into Cybersecurity 👋
+## Hi, I'm Kazeem. I'm an IT and Network Specialist divisifying into Cybersecurity 
 
 <h2>👨‍💻 Server Administration Projects:</h2>
 
