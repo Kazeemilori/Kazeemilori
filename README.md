@@ -16,4 +16,4 @@ alerts and notifications to mitigate risks effectively.
 
 <h2>👨‍💻 Cyber Projects:</h2>
 
-  - [SOC](https://github.com/Kazeemilori/xxx)
+  - [GoPhish Phishing Simulation Lab: Facebook Credential Capture](https://github.com/Kazeemilori/xxx)
