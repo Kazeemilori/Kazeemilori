@@ -12,3 +12,8 @@ alerts and notifications to mitigate risks effectively.
 <h2>👨‍💻 Server Administration and Management Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Kazeemilori/Active-Directory-Home-Lab)
+
+
+<h2>👨‍💻 Cyber Projects:</h2>
+
+  - [SOC](https://github.com/Kazeemilori/xxx)
